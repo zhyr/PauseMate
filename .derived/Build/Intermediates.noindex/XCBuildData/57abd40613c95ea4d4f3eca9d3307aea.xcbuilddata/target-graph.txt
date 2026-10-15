@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'PauseMateTests' in project 'PauseMate'
+➜ Explicit dependency on target 'PauseMate' in project 'PauseMate'
+Target 'PauseMate' in project 'PauseMate' (no dependencies)

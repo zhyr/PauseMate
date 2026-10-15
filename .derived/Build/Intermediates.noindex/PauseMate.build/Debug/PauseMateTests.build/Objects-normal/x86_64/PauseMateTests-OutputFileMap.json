@@ -1,0 +1,19 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/PauseMateTests-primary.dia",
+    "emit-module-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/PauseMateTests-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/PauseMateTests-primary-emit-module.dia",
+    "pch" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/PauseMateTests-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/PauseMateTests-primary.swiftdeps"
+  },
+  "/Users/yr.z/work/PauseMate/Tests/PauseMateTests/TimerEngineTests.swift" : {
+    "const-values" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.swiftconstvalues",
+    "dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.d",
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.dia",
+    "index-unit-output-path" : "/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.o",
+    "llvm-bc" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.bc",
+    "object" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.o",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests.swiftdeps",
+    "swiftmodule" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMateTests.build/Objects-normal/x86_64/TimerEngineTests~partial.swiftmodule"
+  }
+}

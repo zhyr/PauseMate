@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>13</integer>
+	<key>logs</key>
+	<dict>
+		<key>08C2A64D-ECC5-44EC-8C11-E45BC4DCADE4</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>08C2A64D-ECC5-44EC-8C11-E45BC4DCADE4.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>6</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PauseMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PauseMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>timeStartedRecording</key>
+			<real>813652761.94314396</real>
+			<key>timeStoppedRecording</key>
+			<real>813652769.41096306</real>
+			<key>title</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>uniqueIdentifier</key>
+			<string>08C2A64D-ECC5-44EC-8C11-E45BC4DCADE4</string>
+		</dict>
+		<key>11CE9388-E171-4FA3-B561-C57674FC281B</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>11CE9388-E171-4FA3-B561-C57674FC281B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>6</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PauseMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PauseMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>timeStartedRecording</key>
+			<real>813652527.67013395</real>
+			<key>timeStoppedRecording</key>
+			<real>813652537.58717</real>
+			<key>title</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>uniqueIdentifier</key>
+			<string>11CE9388-E171-4FA3-B561-C57674FC281B</string>
+		</dict>
+		<key>7BEAED59-AB4F-4FF1-9CA3-97C94C8F6E22</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7BEAED59-AB4F-4FF1-9CA3-97C94C8F6E22.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>6</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PauseMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PauseMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>timeStartedRecording</key>
+			<real>813652646.96326399</real>
+			<key>timeStoppedRecording</key>
+			<real>813652655.21222496</real>
+			<key>title</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>uniqueIdentifier</key>
+			<string>7BEAED59-AB4F-4FF1-9CA3-97C94C8F6E22</string>
+		</dict>
+		<key>F0E894BA-6938-42B6-9AA3-EA2C5B2DE411</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F0E894BA-6938-42B6-9AA3-EA2C5B2DE411.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>6</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PauseMate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PauseMate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>timeStartedRecording</key>
+			<real>813652579.38553298</real>
+			<key>timeStoppedRecording</key>
+			<real>813652586.54035401</real>
+			<key>title</key>
+			<string>Building project PauseMate for testing with scheme PauseMate</string>
+			<key>uniqueIdentifier</key>
+			<string>F0E894BA-6938-42B6-9AA3-EA2C5B2DE411</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

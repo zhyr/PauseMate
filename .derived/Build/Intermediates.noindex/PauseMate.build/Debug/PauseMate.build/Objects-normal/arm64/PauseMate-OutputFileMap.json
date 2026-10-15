@@ -1,0 +1,49 @@
+{
+  "" : {
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMate-primary.dia",
+    "emit-module-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMate-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMate-primary-emit-module.dia",
+    "pch" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMate-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMate-primary.swiftdeps"
+  },
+  "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/yr.z/work/PauseMate/Sources/PauseMate/OverlayManager.swift" : {
+    "const-values" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.swiftconstvalues",
+    "dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.d",
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.dia",
+    "index-unit-output-path" : "/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.o",
+    "llvm-bc" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.bc",
+    "object" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.o",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager.swiftdeps",
+    "swiftmodule" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/OverlayManager~partial.swiftmodule"
+  },
+  "/Users/yr.z/work/PauseMate/Sources/PauseMate/PauseMateApp.swift" : {
+    "const-values" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.swiftconstvalues",
+    "dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.d",
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.dia",
+    "index-unit-output-path" : "/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.o",
+    "llvm-bc" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.bc",
+    "object" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.o",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp.swiftdeps",
+    "swiftmodule" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/PauseMateApp~partial.swiftmodule"
+  },
+  "/Users/yr.z/work/PauseMate/Sources/PauseMate/TimerEngine.swift" : {
+    "const-values" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.swiftconstvalues",
+    "dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.d",
+    "diagnostics" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.dia",
+    "index-unit-output-path" : "/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.o",
+    "llvm-bc" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.bc",
+    "object" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.o",
+    "swift-dependencies" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine.swiftdeps",
+    "swiftmodule" : "/Users/yr.z/work/PauseMate/.derived/Build/Intermediates.noindex/PauseMate.build/Debug/PauseMate.build/Objects-normal/arm64/TimerEngine~partial.swiftmodule"
+  }
+}
